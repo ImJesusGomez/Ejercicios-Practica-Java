@@ -17,6 +17,7 @@ public class EjercicioNumeroMultiplo {
         System.out.print("Ingresa el segundo numero: ");
         int segundoNumero = teclado.nextInt();
         
+        // Comprobamos si es múltiplo
         if(primerNumero % segundoNumero == 0){
             System.out.println("Segundo numero: " + segundoNumero + " ES multiplo de Primer numero: " + primerNumero);
         } else {
