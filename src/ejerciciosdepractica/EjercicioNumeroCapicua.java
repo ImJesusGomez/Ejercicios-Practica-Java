@@ -5,10 +5,6 @@ package ejerciciosdepractica;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Microsoft Windows 10
- */
 public class EjercicioNumeroCapicua {
     public static void main(String[] args) {
         
